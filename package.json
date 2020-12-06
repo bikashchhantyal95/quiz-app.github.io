@@ -1,0 +1,13 @@
+{
+   "homepage": "https://Bikashvicky007.github.io/quiz_app",
+  "name": "api_quiz",
+  "version": "1.0.0",
+  "description": "Quiz webapp using js and html",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bikash",
+  "license": "ISC"
+}
